@@ -1,0 +1,15 @@
+ALTER VIEW  foreign_keys_view OWNER TO httpd;
+ALTER TABLE    contact           OWNER TO httpd;
+ALTER SEQUENCE contact           OWNER TO httpd;
+ALTER TABLE    contact_method    OWNER TO httpd;
+ALTER SEQUENCE contact_method    OWNER TO httpd;
+ALTER TABLE    gender            OWNER TO httpd;
+ALTER SEQUENCE gender            OWNER TO httpd;
+ALTER TABLE    sex               OWNER TO httpd;
+ALTER SEQUENCE sex               OWNER TO httpd;
+ALTER TABLE    sobriety          OWNER TO httpd;
+ALTER SEQUENCE sobriety          OWNER TO httpd;
+ALTER TABLE    utility           OWNER TO httpd;
+ALTER SEQUENCE utility           OWNER TO httpd;
+ALTER TABLE    who               OWNER TO httpd;
+ALTER SEQUENCE who               OWNER TO httpd;

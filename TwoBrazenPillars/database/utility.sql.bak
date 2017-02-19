@@ -1,0 +1,21 @@
+-- Here for documentation:
+--  DROP DATABASE IF EXISTS aa;
+--CREATE DATABASE IF NOT EXISTS aa OWNER httpd;
+
+BEGIN TRANSACTION;
+
+	  DROP TABLE IF EXISTS  utility CASCADE;
+	CREATE TABLE IF NOT EXISTS utility (
+	          ix SERIAL,
+	        site TEXT,
+	 hash_method TEXT,
+	 PRIMARY KEY (site),
+	      UNIQUE (ix)
+
+	);
+
+	INSERT INTO utility
+	(site,               hash_method) VALUES
+	('TwoBrazenPillars', 'sha1');
+
+COMMIT;

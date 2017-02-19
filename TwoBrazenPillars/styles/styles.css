@@ -1,0 +1,283 @@
+
+.catalog {
+	         display: inline-block;
+	           width: 30%;
+}
+.hams {
+		 display: inline-block;
+		   width: 30%;
+}
+
+SECTION {
+	         display: inline-block;
+	      text-width: 30%
+	           width: 50%;
+}
+
+/* Sortable tables */
+TABLE.sortable THEAD {
+	background-color: hsla(180, 100%,  94%, 1.00);
+	           color: hsla(180, 100%,   0%, 1.00);
+	     font-weight: bold;
+              cursor: default;
+}
+TR {
+	background-color: hsla( 60, 100%,  90%, 1.00);
+	           color: hsla( 60, 100%,   0%, 1.00);
+	     font-weight: bold;
+              cursor: default;
+}
+.header {
+	background-color: hsla(180, 100%,  77%, 1.00);
+	           color: hsla(180, 100%,   0%, 1.00);
+	     font-weight: bold;
+                  cursor: default;
+}
+.add-me-button {
+	 /*                      h    s     l      a     */
+	background-color: hsla(  0,  50%,  80%, 0.72);
+		border-color: hsla(  0,   0%,  40%, 1.00);
+		border-style: solid;
+	   border-radius: 3.0mm 3.0mm 3.0mm 3.0mm;
+		border-width: 2.0mm; 
+			   color: hsla(  0,   0%,   0%, 1.00);
+		   font-size: 1.00em;
+		  text-align: center;
+}
+.bad-message {
+	background-color: hsla(  0, 100%,  50%, 1.00);
+			   color: hsla(  0,   0%, 100%, 1.00);
+		 font-family: "Courier New", Courier, monospace;
+		  font-style: normal;
+}
+BODY {
+	background-color: hsla(207,  52%,  23%, 0.90);
+		 font-family: "Linux Biolinum", arial, sans-serif;
+		   font-size: 100%; /* Works in all browsers. Use em to change in each element. */
+		  text-align: center;
+			   width: 100%;
+}
+.debug-message {
+	background-color: hsla( 60, 100%,  75%, 1.00);
+	    border-color: hsla(  0,   0%,  80%, 1.00);
+	    border-style: solid;
+	   border-radius: 3.0mm;
+	    border-width: 1.5mm;
+		   color: hsla( 60,   0%,   0%, 1.00);
+	     font-family: "Courier New", Courier, monospace;
+	      font-style: normal;
+}
+.elapsed-time {
+	/*                       h    s     l      a */
+	background-color: hsla(208,   0%,  44%, 1.00);
+		border-color: hsla(  0,   0%,  80%, 1.00);
+		border-style: solid;
+	   border-radius: 3.0mm;
+		border-width: 1.5mm;
+	           color: hsla(208,   0%,  60%, 1.00);
+		 font-family: "Courier New", Courier, monospace;
+		   font-size: 1.0em;
+		  font-style: monospace;
+}
+.enter-button {
+	background-color: hsla(  0, 100%,  50%, 0.72);
+			   color: hsla(  0,   0%,   0%, 1.00);
+		   font-size: 1.00em;
+		  text-align: left;
+}
+FIELDSET {
+			 display: inline-block;
+		  text-align: left;
+			   width: 90%;
+}
+.fun {
+	background-color: hsla(210, 100%,  35%, 1.00);
+			   color: hsla(210, 100%, 100%, 1.00);
+		  font-style: oblique;
+}
+.good-message {
+	 /*                      h    s     l      a     */
+	background-color: hsla(242,   0%,  32%, 1.00);
+		border-color: hsla(  0,   0%,  50%, 1.00);
+		border-style: solid;
+	   border-radius: 3.0mm;
+	    border-width: 1.5mm;
+			   color: hsla( 60,   5%, 100%, 1.00);
+		 font-family: "Linux Biolinum", monospace;
+		  font-style: normal; /* Like laid-back. */
+}
+H1 {
+	 /*                      h    s     l      a     */
+	background-color: hsla( 60,  99%,  80%, 0.99);
+			   color: hsla(  0,   0%,   0%, 0.99);
+		  text-align: center;
+			   width: 32%;
+}
+H2 {
+	 /*                      h    s     l      a     */
+	background-color: hsla( 60,  99%,  80%, 0.99);
+		   color: hsla(  0,   0%,   0%, 0.99);
+	      text-align: center;
+		   width: 32%;
+}
+H3 {
+	      text-align: left;
+}
+.holdings {
+	display:inline-block;
+	/*width=30%;*/
+}
+HTML {
+	 /*                      h    s     l      a     */
+	background-color: hsla( 60,   0%,  32%, 1.00);
+		 font-family: "Linux Biolinum", "Courier", serif;
+}
+IMG {
+		  text-align: center;
+}
+IMG.left {
+	     margin-left: 0mm;
+	    margin-right: auto;
+}
+.informational-message {
+	 /*                      h    s     l      a     */
+    background-color: hsla(190,  60%,  60%, 1.00);
+        border-color: hsla(  0,   0%,  80%, 1.00);
+        border-style: solid;
+       border-radius: 3.0mm;
+        border-width: 1.5mm;
+               color: hsla( 60,   0%,   0%, 1.00);
+         font-family: "Linux Biolinum", Courier, monospace;
+          font-style: oblique; /* Like laid-back. */
+}
+INPUT {
+	background-color: hsla(150, 100%,  32%, 1.00);
+	           color: hsla(150, 100%, 100%, 1.00);
+}
+.Languages {
+	background-color: hsla(140, 100%,  35%, 1.00);
+			   color: hsla(270, 100%,  90%, 1.00);
+		 font-family: "Lucida Console", "serif";
+		   font-size: 1.5em;
+}
+.my_IP {
+	background-color: hsla(330, 100%,  80%, 1.00);
+			   color: hsla(330,   0%,  48%, 1.00);
+		 font-family: Georgia, Serif;
+		   font-size: 1.5em;
+}
+			 padding: 0.50em;
+
+}
+TABLE.center {
+	     margin-left: auto;
+	    margin-right: auto;
+}
+TABLE.sortable thead {
+	 /*                    h    s      l    a     */
+	background-color: hsla(240, 100%,  50%, 1.00);
+			   color: hsla( 60, 100%,  80%, 1.00);
+		 font-weight: bold;
+			  cursor: default;
+			 padding:  0mm 10mm 0mm 10mm;
+}
+TD {
+	background-color: hsla(180,   0%,   0%, 1.00);
+			   color: hsla( 60, 100%,  90%, 1.00);
+			  border: 0.16mm solid hsla(180,  20%,  14%, 1.00);
+			 padding: 0.64mm 0.64mm 0.64mm 0.64mm;
+}
+.text {
+	background-color: hsla(210,  10%,  28%, 1.00);
+			   color: hsla(  0, 100%,  45%, 1.00);
+		  text-align: left;
+			   width: 80%;
+}
+.text-edit {
+	background-color: hsla(210,  10%,  98%, 1.00);
+			   color: hsla(210,  50%,  40%, 1.00);
+		  text-align: left;
+}
+TEXTAREA {
+	   border-radius:  3mm;
+			  border:  1mm solid hsla( 60, 100%,  16%, 1.00);
+			 padding:  1mm; 
+		  margin-top:  3mm;
+		margin-right: 10mm;
+	   margin-bottom:  2mm;
+		 margin-left:  8mm;
+ }
+.textlen {
+	background-color: hsla(  0,  10%,  28%, 1.00);
+			   color: hsla(  0,   0%, 100%, 1.00);
+			 display: block;
+		  text-align: right;
+}
+THEAD {
+	      text-align: center;
+}
+.title {
+	background-color: hsla( 90,  50%,  90%, 1.00);
+			   color: hsla(180,   0%,  20%, 1.00);
+		 font-family: "Linux Biolinum", "Georgia","serif";
+		  font-style: italic;
+		 font-weight: 900;
+		  text-align: center;
+			 /*width: 10%;*/
+}
+.title-display {
+	background-color: hsla(240,  10%,  20%, 1.00);
+			   color: hsla(240,  10%,  60%, 1.00);
+		  text-align: left;
+}
+.todo {
+			   color: hsla( 60,  0%, 80%, 0.99);
+}
+TR {
+}
+.type {
+	background-color: hsla(240,  10%,  28%, 1.00);
+			   color: hsla(240,   0%, 100%, 1.00);
+			 display: inline-block;
+		 font-family: serif;
+		  text-align: left;
+}
+UL.table {
+			  display: table;
+}
+UL.table > li {
+			  display: table-cell;
+}
+.unobtrusive {
+			  display: inline-block;
+		   text-align: right;
+}
+.v_n {
+	 background-color: hsla(  0,  50%,  80%, 1.00);
+				color: hsla(  0,   0%, 100%, 1.00);
+			  display: block;
+				width: 3em;
+		   text-align: right;
+}
+.validate-button {
+	 /*                      h    s     l      a     */
+	background-color: hsla(  0,   0%,  50%, 0.72);
+		border-color: hsla(  0,   0%,  40%, 1.00);
+		border-style: solid;
+			   color: hsla(  0,   0%,  30%, 1.00);
+			   float: left;
+		   font-size: 1.00em;
+}
+.version_ix {
+	 background-color: hsla(  0,  50%,  80%, 1.00);
+				color: hsla(  0,   0%, 100%, 1.00);
+			  display: block;
+			  /*float: right;*/
+		   text-align: right;
+}
+.Yorùbá {
+	 background-color: hsla(210,  15%,  60%, 0.90);
+				color: hsla(210,   0%, 100%, 1.00);
+			font-size: 1.2em;
+		   font-style: oblique;
+}
