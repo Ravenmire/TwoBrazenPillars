@@ -1,0 +1,61 @@
+M00 General Works
+M46 Cemeteries
+M01 Annuals, Year Books
+M47 Other Masonic benevolence
+M02 Societies, Transactions 
+M03 Study (Schools of Instruction)
+M48 Impositions on Charity
+M5O Art and Architecture
+M04 Bibliography 
+M52 Architecture
+M05 Libraries
+M53 Art
+M06 Book Rarities
+M54 Other Works
+M10 History and Philosophy
+M60 Literature and Music
+M11 Philosophy and Symbolism
+M61 Addresses, Sermons, Lectures, Essays
+M12 Church and State
+M62 Magazines
+M13 Special Subjects
+M63 Poetry and Drama
+M14 Rites, Degrees, Manuals
+M66 Novels and Tales
+MGS Music
+M16 Biography
+M67 Humor and Satire
+M17 Geographical Divisions of History
+M70 Societies admitting only Masons
+M10 Antimasonry
+M71 Constantine Orders
+M20 Customs and Paraphernalia
+M72 Royal Order of Scotland
+M21 Paraphernalia
+M73 Masonic Veteran Asso-
+M22 Jewels, Medals, Badges citations
+M23 Glassware, Chinaware
+M74 Clubs
+M33 Bylaws
+M75 Acacia Fraternity
+M26 Completed Forms
+M76 Mystic Shrine
+M30 Jurisprudence . l
+M77 Veiled Prophets
+M31 Constitutions, general
+M78 Order of DeMolay
+M32 Special Topics
+MSS By-Laws
+M79 Other Orders
+M35 Trials
+M8O Women in Masonry
+M40 Charity and Education
+M81 Adoptive Masonry
+M42 Benevolent and Educational Institutions 
+M82 Order of the Eastern Star
+M84 White Shrine, Job’s Daughters
+M43 Boards of Belief 
+M44 Insurance and Mutual Aid Associations
+M85 Co-Masonry
+M90 Negro Freemasonry (Subdivided)
+M45 Hospitals

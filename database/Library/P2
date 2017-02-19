@@ -1,0 +1,7 @@
+ \connect library ted
+
+ \i random-string.sql
+ \i library-organizations.sql
+ \i DeweyNumbers.sql
+ \i Boyden-Bish/boyden-bish.sql
+ \i books.sql
